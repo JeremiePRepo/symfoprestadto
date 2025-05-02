@@ -46,6 +46,3 @@ Access the application via the following URL after starting the server:
 ```
 http://127.0.0.1:8000/index
 ```
-
-## License
-Project under proprietary license.
